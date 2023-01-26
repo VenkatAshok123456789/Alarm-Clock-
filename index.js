@@ -50,5 +50,4 @@ setInterval(() => {
     const alarm = alarmList.children[i];
     const alarmTime = alarm.querySelector('.alarm-time').textContent;
     const alarmAmPm = alarm.querySelector('.alarm-am-pm').textContent;
-
-   
+  }
